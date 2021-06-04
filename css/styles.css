@@ -900,3 +900,42 @@ input[type=checkbox]:checked ~ span:is(.yearly) {
 }
 
 /*# sourceMappingURL=styles.css.map */
+
+
+/* ==========================================================================
+   Inician estilos MEDIA QUERIES Móvil 480 en adelante
+   ========================================================================== */
+
+
+   @media only screen and (min-width:480px) and (max-width:767px) {
+
+
+    body {
+    
+
+      overflow-x: hidden;
+    
+    
+    }
+  
+  
+  }
+  
+  /* ==========================================================================
+     Inician estilos MEDIA QUERIES Móvil 768 en adelante
+     ========================================================================== */
+  
+  
+  @media only screen and (min-width:768px) and (max-width:1023px) {
+    body {
+    
+
+      overflow-x: hidden;
+    
+    
+    }
+  
+   
+  
+  }
+  
